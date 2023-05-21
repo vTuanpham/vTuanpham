@@ -33,9 +33,11 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ![rapidsave com_f6axil0wtpf81](https://github.com/vTuanpham/vTuanpham/assets/82665400/df032993-cb66-4604-917b-47930f183487)
+<div align="center">
   
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gokepj80volji88zvaayqlt60&count=1)
 
+</div>  
 <!--
 **vTuanpham/vTuanpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
